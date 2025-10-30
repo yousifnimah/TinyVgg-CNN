@@ -2,7 +2,7 @@
 
 A compact convolutional neural network inspired by **VGG-like** architectures, trained on the **Fashion-MNIST** dataset for image classification tasks.
 
-![Model Output]([https://raw.githubusercontent.com/yousifnimah/TinyVgg-CNN/refs/heads/main/output.png](https://i.imgur.com/7rtsP5K.png))
+[Imgur](https://imgur.com/7rtsP5K)
 
 ---
 
